@@ -4,4 +4,4 @@ How to Run: You can clone this project onto your machine and run index.html in t
 
 Roadmap of Future Improvements: I'm not sure where I plan to take this code in the future but it is helpful to review for animated movement.
 
-Support: For help with this project, please contact me via my website.
+Support: For help with this project, please contact me via my website, KaylaDefi.github.io
